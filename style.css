@@ -2,3 +2,11 @@ body {
     background-image: url(./assets/background.jpeg);
     background-size: cover;
 }
+
+@media (min-width: 576px) {
+
+}
+
+.card {
+    display:inline-block;
+}
