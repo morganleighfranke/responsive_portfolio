@@ -1,12 +1,19 @@
+/* *{
+    border: 1px solid red;
+} */
+
 body {
     background-image: url(./assets/background.jpeg);
     background-size: cover;
 }
 
-@media (min-width: 576px) {
-
+@media screen and (max-width: 520px) { 
+.col {
+    padding: 0;
+}
 }
 
 .card {
     display:inline-block;
 }
+
