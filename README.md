@@ -1,7 +1,7 @@
 # responsive_portfolio
 
 # Description
-This is a responsive website that holds my information and projects for future employers to assess my work.
+This is a responsive website that holds my information and projects for future employers to assess my work. The focus is on the nav bar and working links, and responsive images using Bootstrap's columns and grids system. 
 
 # Screenshots
 
