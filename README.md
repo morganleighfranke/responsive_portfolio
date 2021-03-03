@@ -12,7 +12,7 @@ This screenshot shows my portfolio page at a xs screen where the images take up 
 ![Alt text](assets/images/RespPortfolio.png?raw=true "Portfolio Screenshot")
 
 This screenshot shows my portfolio page at a lg where the images are all in the same row:
-![Alt text](assets/images/portfolio?raw=true "Portfolio Screenshot")
+![Alt text](assets/images/portfolio.png?raw=true "Portfolio Screenshot")
 
 This screenshot shows my contact page:
 ![Alt text](assets/images/respContact.png?raw=true "Contact Screenshot")
