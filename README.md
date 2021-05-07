@@ -6,16 +6,13 @@ This is a responsive website that holds my information and projects for future e
 # Screenshots
 
 About me page with responsive images and hamburger nav bar:
-![Alt text](assets/images/AboutMeScreenshot.png?raw=true "About Me Screenshot")
+![Alt text](assets/images/aboutme.png?raw=true "About Me Screenshot")
 
-This screenshot shows my portfolio page at a xs screen where the images take up the entire screen:
-![Alt text](assets/images/RespPortfolio.png?raw=true "Portfolio Screenshot")
-
-This screenshot shows my portfolio page at a lg where the images are all in the same row:
+This screenshot shows my portfolio page:
 ![Alt text](assets/images/portfolio.png?raw=true "Portfolio Screenshot")
 
 This screenshot shows my contact page:
-![Alt text](assets/images/respContact.png?raw=true "Contact Screenshot")
+![Alt text](assets/images/contact.png?raw=true "Contact Screenshot")
 
 # Link
 
